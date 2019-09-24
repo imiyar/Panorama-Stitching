@@ -17,7 +17,7 @@ A course project for 6.865 Computational Photography.
 
 ## Sample Input
 
-<img src="./Input/IMG_1278-min.png" width="200"><img src="./Input/IMG_1279-min.png" width="200"><img src="./Input/IMG_1280-min.png" width="200"><img src="./Input/IMG_1281-min.png" width="200">
+<img src="./Input/IMG_1278-min.png" width="200"> <img src="./Input/IMG_1279-min.png" width="200"> <img src="./Input/IMG_1280-min.png" width="200"> <img src="./Input/IMG_1281-min.png" width="200">
 
 ## Sample Output
 
